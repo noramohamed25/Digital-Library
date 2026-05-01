@@ -16,7 +16,7 @@ A Flutter-based digital library app - Borrow and buy books with an XP and leveli
 
 | Login | Library | Profile |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Library](screenshots/library.png) | ![Profile](screenshots/profile.png) |
+| ![Login](assets/login.png) | ![Library](assets/library.png) | ![Profile](assets/profile.png) |
 
 ## 🛠️ Technologies Used
 
