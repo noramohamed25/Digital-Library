@@ -1,17 +1,33 @@
-# digtalibrary
+# Digital Library 📚
 
-A new Flutter project.
+A Flutter-based digital library app - Borrow and buy books with an XP and leveling system.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📖 Borrow books (7, 14, 30 days)
+- 💰 Buy paid books
+- 🎮 XP and leveling system
+- 🏆 Achievements and badges
+- 🎨 Categories: Kids🧸 | Horror👻 | Romance💖 | Drama🎭 | Fantasy🐉
+- 👤 Personal profile with statistics
+- 🖼️ Choose custom avatar
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Login | Library | Profile |
+|---|---|---|
+| ![Login](screenshots/login.png) | ![Library](screenshots/library.png) | ![Profile](screenshots/profile.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter & Dart
+- Material Design 3
+- Clean Architecture
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/your-username/digital_library.git
+cd digital_library
+flutter pub get
+flutter run
